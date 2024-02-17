@@ -20,21 +20,24 @@ Reference links:
 6. Selecting pricing tier
 7. Clicking on "Review + create"
 
-![marketplace](img/print_2.png)
+![create resource](img/print_2.png)
    
 8. Acessing portal.vision.cognitive.azure.com
 
-![marketplace](img/print_3.png)
+![vision studio](img/print_3.png)
    
 9. Clicking on "View all resources"
 10. Selecting resource and clicking on "Select as default resource"
+
+![selecting default resource](img/print_4.png)
+    
 11. Returning to home page
 12. Clicking on "Optical character recognition" and then on "Extract text from images"
 
-![marketplace](img/print_7.png)
+![ocr job](img/print_7.png)
     
 13. Selecting box ("I acknowledge that this demo...") and then uploading images to check detected text (example below)
 
-![marketplace](img/print_8.png)
+![ocr example](img/print_8.png)
 
 **Noted points:** This resource and other Vision Studio resources can be used in various environments; more info at tht end of the page
